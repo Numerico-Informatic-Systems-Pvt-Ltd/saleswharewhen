@@ -1,0 +1,392 @@
+[06-Feb-2015 06:19:47 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 06:41:14 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 06:43:30 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 06:45:12 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 06:51:46 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 06:52:02 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 06:54:13 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 06:56:33 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 06:56:41 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 06:57:19 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 06:57:37 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 06:58:11 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 06:59:35 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 07:01:56 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 07:02:04 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 07:05:40 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 07:05:47 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 07:05:58 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 07:11:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 07:12:30 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 07:12:38 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 07:12:41 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 07:14:09 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 07:14:22 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 07:14:28 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 07:14:43 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 07:16:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 07:20:45 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 07:22:48 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 07:25:20 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 07:33:50 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:12:37 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:14:00 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:15:40 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:16:09 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:16:18 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:16:30 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:16:38 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:17:34 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:17:42 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:18:27 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 70
+[06-Feb-2015 11:18:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 70
+[06-Feb-2015 11:18:59 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 70
+[06-Feb-2015 11:31:55 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:32:38 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:32:44 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:32:46 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:33:03 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 70
+[06-Feb-2015 11:33:30 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 70
+[06-Feb-2015 11:33:51 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 70
+[06-Feb-2015 11:34:17 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:35:30 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:35:34 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:36:53 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:39:42 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:45:39 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 129
+[06-Feb-2015 11:47:56 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 126
+[06-Feb-2015 11:48:44 America/Denver] PHP Parse error:  syntax error, unexpected '*' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 65
+[06-Feb-2015 11:49:31 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 173
+[06-Feb-2015 11:50:07 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 176
+[06-Feb-2015 11:50:59 America/Denver] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 177
+[06-Feb-2015 11:51:47 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 21:40:41 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 21:40:59 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 21:53:25 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[06-Feb-2015 22:01:03 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 70
+[06-Feb-2015 22:01:49 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 70
+[06-Feb-2015 22:02:16 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 70
+[06-Feb-2015 22:02:27 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 70
+[06-Feb-2015 22:02:49 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:05:41 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 86
+[06-Feb-2015 22:07:06 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:07:13 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:07:40 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:08:06 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:10:11 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:10:24 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:10:54 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 85
+[06-Feb-2015 22:10:58 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 85
+[06-Feb-2015 22:12:16 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:16:48 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:16:55 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:17:06 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:17:29 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:18:24 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:18:41 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:19:00 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:19:03 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:19:50 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 38
+[06-Feb-2015 22:22:06 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:25:41 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 40
+[06-Feb-2015 22:27:02 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 40
+[06-Feb-2015 22:27:06 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 40
+[06-Feb-2015 22:27:19 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 40
+[06-Feb-2015 22:27:54 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 40
+[06-Feb-2015 22:29:02 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:29:05 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:32:56 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:33:26 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:34:12 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:34:29 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:35:42 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:39:16 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:43:52 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:43:57 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:45:02 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:47:28 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 39
+[06-Feb-2015 22:50:26 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 130
+[07-Feb-2015 03:12:37 America/Denver] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home5/nisclie1/public_html/client/sww/application/views/home/listing.php on line 284
+[11-Feb-2015 01:29:01 America/Denver] PHP Fatal error:  Call to a member function getBrandList() on a non-object in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 238
+[12-Feb-2015 03:23:05 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroderyOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 24
+[12-Feb-2015 06:45:38 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 302
+[12-Feb-2015 06:48:19 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 302
+[12-Feb-2015 06:48:22 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 302
+[12-Feb-2015 06:50:25 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 302
+[12-Feb-2015 06:50:30 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 302
+[12-Feb-2015 06:51:04 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 302
+[12-Feb-2015 06:54:29 America/Denver] PHP Fatal error:  Call to a member function getMerchantDetails() on a non-object in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 276
+[16-Feb-2015 05:32:20 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 05:58:46 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 338
+[16-Feb-2015 05:59:21 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 338
+[16-Feb-2015 06:00:18 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 338
+[16-Feb-2015 06:02:32 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 338
+[16-Feb-2015 06:03:15 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 338
+[16-Feb-2015 21:40:19 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 28
+[16-Feb-2015 21:40:23 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 28
+[16-Feb-2015 21:40:24 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 28
+[16-Feb-2015 21:40:35 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 28
+[16-Feb-2015 21:40:41 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 28
+[16-Feb-2015 21:41:20 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 28
+[16-Feb-2015 21:41:21 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 28
+[16-Feb-2015 21:41:25 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 28
+[16-Feb-2015 21:41:38 America/Denver] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 28
+[16-Feb-2015 23:21:35 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 23:21:41 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 23:23:07 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 23:23:27 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 23:25:56 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 23:25:59 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 23:26:11 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 23:34:44 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 23:34:48 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[16-Feb-2015 23:36:33 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::getGroceryOffers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 22
+[17-Feb-2015 01:02:35 America/Denver] PHP Parse error:  syntax error, unexpected '00' (T_LNUMBER) in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 332
+[17-Feb-2015 01:02:40 America/Denver] PHP Parse error:  syntax error, unexpected '00' (T_LNUMBER) in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 332
+[17-Feb-2015 01:03:06 America/Denver] PHP Parse error:  syntax error, unexpected '00' (T_LNUMBER) in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 332
+[17-Feb-2015 01:03:13 America/Denver] PHP Parse error:  syntax error, unexpected '00' (T_LNUMBER) in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 332
+[17-Feb-2015 01:03:42 America/Denver] PHP Parse error:  syntax error, unexpected '00' (T_LNUMBER) in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 332
+[17-Feb-2015 07:05:00 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:05:38 America/Denver] PHP Fatal error:  Call to a member function getVote() on a non-object in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 50
+[17-Feb-2015 07:10:39 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:41 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:42 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:42 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:42 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:42 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:44 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:44 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:44 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:48 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:55 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:10:55 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:12:18 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:12:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:16:21 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:16:25 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:17:45 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:19:12 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:20:16 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:20:46 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:29:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:29:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:29:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:29:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:29:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:30:34 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:32:05 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:32:27 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:32:30 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:46:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:46:52 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:48:20 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:49:30 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:51:00 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:52:35 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:54:38 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:56:31 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:57:13 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:57:16 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:58:10 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:58:34 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:59:24 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:59:42 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 07:59:44 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:00:12 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:01:58 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:02:45 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:04:01 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:07:08 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:07:34 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:07:55 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:08:16 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:09:51 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:09:57 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:14:09 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:16:09 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 08:16:23 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 21:57:33 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 21:58:14 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 22:03:54 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 22:13:39 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 22:13:50 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 22:15:02 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 22:16:25 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 22:16:31 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 22:17:17 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 22:17:58 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 28
+[17-Feb-2015 22:19:39 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 30
+[17-Feb-2015 22:19:52 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 30
+[17-Feb-2015 22:20:19 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 30
+[17-Feb-2015 22:20:28 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 30
+[17-Feb-2015 22:43:31 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/review.php on line 30
+[18-Feb-2015 05:42:07 America/Denver] PHP Fatal error:  Call to undefined method deals_model::getAllDealsByBrand() in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 49
+[20-Feb-2015 02:25:51 America/Denver] PHP Fatal error:  Call to undefined method users_model::passwordReset() in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 250
+[20-Feb-2015 04:58:58 America/Denver] PHP Fatal error:  Call to a member function getBannerImages() on a non-object in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 22
+[20-Feb-2015 05:00:21 America/Denver] PHP Fatal error:  Call to a member function getBannerImages() on a non-object in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 22
+[20-Feb-2015 05:01:14 America/Denver] PHP Fatal error:  Call to a member function getBannerImages() on a non-object in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 22
+[20-Feb-2015 05:01:20 America/Denver] PHP Fatal error:  Call to a member function getBannerImages() on a non-object in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 22
+[20-Feb-2015 05:35:16 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:35:27 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:35:38 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:35:39 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:35:45 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:35:46 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:35:52 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:36:05 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:36:45 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:36:54 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:36:57 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:57:36 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:57:41 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 42
+[20-Feb-2015 05:59:44 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 41
+[20-Feb-2015 05:59:44 America/Denver] PHP Fatal error:  Can't use method return value in write context in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 41
+[13-Mar-2015 01:16:28 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/views/home/productDetails.php on line 70
+[13-Mar-2015 01:17:02 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/views/home/productDetails.php on line 70
+[13-Mar-2015 01:31:02 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/views/home/productDetails.php on line 70
+[13-Mar-2015 01:31:33 America/Denver] PHP Parse error:  syntax error, unexpected '{' in /home5/nisclie1/public_html/client/sww/application/views/home/productDetails.php on line 70
+[13-Mar-2015 07:45:41 Etc/UTC] PHP Fatal error:  require_once(): Failed opening required '/home5/nisclie1/public_html/application/libraries/phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 254
+[18-Mar-2015 03:35:38 America/Denver] PHP Fatal error:  Call to undefined method grocery_model::update() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 47
+[19-Mar-2015 03:30:18 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/views/home/productDetails.php on line 81
+[19-Mar-2015 03:30:49 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/views/home/productDetails.php on line 81
+[19-Mar-2015 03:30:57 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/views/home/productDetails.php on line 81
+[19-Mar-2015 03:31:29 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/views/home/productDetails.php on line 81
+[19-Mar-2015 03:31:39 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/views/home/productDetails.php on line 81
+[19-Mar-2015 07:02:22 America/Denver] PHP Fatal error:  Class 'Facebook' not found in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 134
+[19-Mar-2015 07:09:15 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:09:23 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:11:07 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:11:48 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:12:04 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:14:08 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:14:59 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:15:11 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:15:46 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:16:34 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:16:44 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:18:21 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:22:11 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:22:36 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:24:27 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:24:51 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:25:24 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:27:58 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'http://sww.nisclient.com//application/libraries/facebook/facebook.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 134
+[19-Mar-2015 07:28:20 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'http://sww.nisclient.com/application/libraries/facebook/facebook.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 134
+[19-Mar-2015 07:37:51 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:39:43 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:41:10 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:41:37 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:43:12 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:44:38 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 07:47:45 America/Denver] PHP Parse error:  syntax error, unexpected '$facebook' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 135
+[19-Mar-2015 07:49:26 America/Denver] PHP Parse error:  syntax error, unexpected '$facebook' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 135
+[19-Mar-2015 07:51:30 America/Denver] PHP Parse error:  syntax error, unexpected '$facebook' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 135
+[19-Mar-2015 07:53:15 America/Denver] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 141
+[19-Mar-2015 07:54:08 America/Denver] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 141
+[19-Mar-2015 07:55:24 America/Denver] PHP Parse error:  syntax error, unexpected '$users' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 141
+[19-Mar-2015 07:55:53 America/Denver] PHP Parse error:  syntax error, unexpected '$facebook' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 135
+[19-Mar-2015 07:56:33 America/Denver] PHP Parse error:  syntax error, unexpected '$facebook' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 135
+[19-Mar-2015 07:57:26 America/Denver] PHP Parse error:  syntax error, unexpected '$facebook' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 133
+[19-Mar-2015 07:58:15 America/Denver] PHP Parse error:  syntax error, unexpected '$facebook' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 133
+[19-Mar-2015 08:00:27 America/Denver] PHP Parse error:  syntax error, unexpected '$facebook' (T_VARIABLE) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 133
+[19-Mar-2015 08:00:30 America/Denver] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 1
+[19-Mar-2015 08:19:26 America/Denver] PHP Fatal error:  require_once(): Failed opening required 'lknlnln/base_facebook.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/nisclie1/public_html/client/sww/application/libraries/facebook/facebook.php on line 31
+[19-Mar-2015 08:31:26 America/Denver] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home5/nisclie1/public_html/client/sww/application/controllers/login.php on line 145
+[19-Mar-2015 09:38:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 321
+[19-Mar-2015 09:39:12 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 321
+[19-Mar-2015 09:40:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 321
+[19-Mar-2015 09:41:24 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 322
+[19-Mar-2015 09:41:43 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 322
+[19-Mar-2015 09:42:23 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 09:42:27 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 09:42:35 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 09:42:58 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 09:44:34 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 09:44:53 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 09:46:01 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 09:46:12 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 09:46:15 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 09:46:42 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 319
+[19-Mar-2015 09:46:46 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 319
+[19-Mar-2015 09:47:01 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 319
+[19-Mar-2015 09:47:36 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 319
+[19-Mar-2015 09:47:55 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 319
+[19-Mar-2015 18:21:11 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 319
+[19-Mar-2015 22:50:28 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 319
+[19-Mar-2015 22:53:16 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 319
+[19-Mar-2015 22:53:23 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 319
+[19-Mar-2015 22:53:55 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 22:55:08 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 22:58:26 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 22:58:29 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 22:58:31 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 22:59:30 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 23:00:07 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 23:00:26 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 23:01:31 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 323
+[19-Mar-2015 23:01:55 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 324
+[19-Mar-2015 23:01:57 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 324
+[19-Mar-2015 23:02:13 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 324
+[19-Mar-2015 23:02:17 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 324
+[19-Mar-2015 23:04:28 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 324
+[19-Mar-2015 23:04:38 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 324
+[19-Mar-2015 23:06:02 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 324
+[20-Mar-2015 01:45:55 America/Denver] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 316
+[20-Mar-2015 01:53:09 America/Denver] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 316
+[20-Mar-2015 01:53:54 America/Denver] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 316
+[20-Mar-2015 01:55:14 America/Denver] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 316
+[20-Mar-2015 01:55:22 America/Denver] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 316
+[20-Mar-2015 01:58:07 America/Denver] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 316
+[20-Mar-2015 01:59:53 America/Denver] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 316
+[20-Mar-2015 02:03:02 America/Denver] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 316
+[20-Mar-2015 02:04:09 America/Denver] PHP Parse error:  syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 316
+[21-Mar-2015 03:02:10 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 296
+[21-Mar-2015 03:02:15 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 296
+[21-Mar-2015 03:02:20 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 296
+[21-Mar-2015 03:02:24 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 296
+[21-Mar-2015 03:04:32 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 296
+[21-Mar-2015 03:06:23 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 296
+[25-Mar-2015 05:00:01 America/Denver] PHP Fatal error:  Call to a member function parse() on a non-object in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 304
+[27-Mar-2015 08:09:07 America/Denver] PHP Fatal error:  Call to undefined method category_model::getAdvertisment() in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 43
+[27-Mar-2015 08:11:41 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/home/categoryListing.php on line 134
+[31-Mar-2015 06:50:17 America/Denver] PHP Fatal error:  Call to undefined method deals_model::getShopList() in /home5/nisclie1/public_html/client/swwnew/application/controllers/home.php on line 32
+[01-Apr-2015 04:31:48 America/Denver] PHP Fatal error:  Call to undefined method deals_model::getCityID() in /home5/nisclie1/public_html/client/sww/application/models/deals_model.php on line 259
+[01-Apr-2015 04:32:02 America/Denver] PHP Fatal error:  Call to undefined method deals_model::getCityID() in /home5/nisclie1/public_html/client/sww/application/models/deals_model.php on line 259
+[01-Apr-2015 04:32:52 America/Denver] PHP Fatal error:  Call to undefined method deals_model::getCityID() in /home5/nisclie1/public_html/client/sww/application/models/deals_model.php on line 259
+[01-Apr-2015 05:30:52 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:31:11 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:33:17 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:33:28 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:34:07 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:38:35 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:38:55 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:42:27 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:43:36 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:43:42 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:46:06 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:46:20 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:48:30 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:48:39 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:48:53 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:57:30 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 05:59:24 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[01-Apr-2015 06:00:05 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home5/nisclie1/public_html/client/sww/application/views/users/sessionAlertCart.php on line 88
+[03-Apr-2015 09:56:17 America/Denver] PHP Fatal error:  Call to undefined method deals_model::getCountryList() in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 33
+[03-Apr-2015 09:56:28 America/Denver] PHP Fatal error:  Call to undefined method deals_model::getCountryList() in /home5/nisclie1/public_html/client/sww/application/controllers/home.php on line 33
+[04-Apr-2015 04:33:20 America/Denver] OAuthException: An active access token must be used to query information about the current user.
+[04-Apr-2015 04:33:37 America/Denver] OAuthException: An active access token must be used to query information about the current user.
+[04-Apr-2015 04:34:21 America/Denver] OAuthException: An active access token must be used to query information about the current user.
+[04-Apr-2015 04:34:25 America/Denver] OAuthException: An active access token must be used to query information about the current user.
+[04-Apr-2015 04:35:23 America/Denver] GraphMethodException: Unsupported get request. Please read the Graph API documentation at https://developers.facebook.com/docs/graph-api
+[06-Apr-2015 07:32:54 America/Denver] PHP Fatal error:  Cannot redeclare Grocery::offers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 56
+[06-Apr-2015 07:33:25 America/Denver] PHP Fatal error:  Cannot redeclare Grocery::offers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 56
+[06-Apr-2015 07:33:28 America/Denver] PHP Fatal error:  Cannot redeclare Grocery::offers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 56
+[06-Apr-2015 07:34:32 America/Denver] PHP Fatal error:  Cannot redeclare Grocery::offers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 56
+[06-Apr-2015 07:34:33 America/Denver] PHP Fatal error:  Cannot redeclare Grocery::offers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 56
+[06-Apr-2015 07:35:37 America/Denver] PHP Fatal error:  Cannot redeclare Grocery::offers() in /home5/nisclie1/public_html/client/sww/application/controllers/grocery.php on line 56
+[07-Apr-2015 10:26:46 Etc/UTC] PHP Fatal error:  require_once(): Failed opening required '/home5/nisclie1/public_html/application/libraries/phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 138
+[07-Apr-2015 10:28:27 Etc/UTC] PHP Fatal error:  require_once(): Failed opening required '/home5/nisclie1/public_html/application/libraries/phpmailer/PHPMailerAutoload.php' (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home5/nisclie1/public_html/client/sww/application/controllers/signup.php on line 138
+[10-Apr-2015 03:09:28 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home5/nisclie1/public_html/client/sww/application/controllers/admin.php on line 456
+[23-Apr-2015 00:03:55 America/Denver] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home5/nisclie1/public_html/client/sww/application/models/users_model.php on line 127
+[23-Apr-2015 07:05:14 America/Denver] CurlException: 7: Failed to connect to 2a03:2880:2110:9f07:face:b00c:0:1: Network is unreachable
+[23-Apr-2015 07:11:47 America/Denver] CurlException: 7: Failed to connect to 2a03:2880:2110:9f07:face:b00c:0:1: Network is unreachable
